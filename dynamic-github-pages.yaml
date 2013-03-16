@@ -1,0 +1,5 @@
+title: Dynamic GitHub Pages
+date: 2013-03-16 23:26:40 +0800
+url: https://github.com/tlvince/dmenu-tools/blob/gh-pages/javascripts/main.coffee
+abstract: Dynamically populate a GitHub project's page with its readme and source file list
+tags: api github jsonp zepto coffeescript handlebars
