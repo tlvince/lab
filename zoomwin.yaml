@@ -1,5 +1,5 @@
 title: ZoomWin
-date: 2013-01-26 14:39:00 +0800
-url: https://github.com/tlvince/ZoomWin
-description: Zoom in/out  of windows (toggle between one window and multi-window)
-tags: VimL
+date: "2013-01-26 06:39:00 +0000"
+url: "https://github.com/tlvince/ZoomWin"
+description: "Zoom in/out  of windows (toggle between one window and multi-window)"
+fork: true

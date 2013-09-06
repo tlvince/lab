@@ -1,5 +1,5 @@
-title: Laravel-Generator
-date: 2013-02-19 17:06:12 +0800
-url: https://github.com/tlvince/Laravel-Generator
-description: Simple Laravel generator task for creating controllers, models, views, and migration schema.
-tags: PHP
+title: "Laravel-Generator"
+date: "2013-02-19 09:06:12 +0000"
+url: "https://github.com/tlvince/Laravel-Generator"
+description: "Simple Laravel generator task for creating controllers, models, views, and migration schema."
+fork: true

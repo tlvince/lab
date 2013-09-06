@@ -1,5 +1,5 @@
-title: heroku-buildpack-jekyll
-date: 2012-05-29 21:23:48 +0800
-url: https://github.com/tlvince/heroku-buildpack-jekyll
+title: "heroku-buildpack-jekyll"
+date: "2012-05-29 14:23:48 +0100"
+url: "https://github.com/tlvince/heroku-buildpack-jekyll"
 description: Heroku build pack for Jekyll websites
-tags: Shell
+fork: true

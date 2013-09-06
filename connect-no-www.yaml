@@ -1,5 +1,5 @@
-title: connect-no-www
-date: 2012-09-16 13:07:29 +0800
-url: https://github.com/tlvince/connect-no-www
-description: Simple no-www redirection as connect middleware
-tags: JavaScript
+title: "connect-no-www"
+date: "2012-09-16 06:07:29 +0100"
+url: "https://github.com/tlvince/connect-no-www"
+description: "Simple no-www redirection as connect middleware"
+fork: true

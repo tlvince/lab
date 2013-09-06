@@ -1,5 +1,5 @@
-title: php-jenkins-template
-date: 2013-01-28 14:58:23 +0800
-url: https://github.com/tlvince/php-jenkins-template
+title: "php-jenkins-template"
+date: "2013-01-28 06:58:23 +0000"
+url: "https://github.com/tlvince/php-jenkins-template"
 description: Template for Jenkins jobs for PHP projects.
-tags: php jenkins ci
+fork: true

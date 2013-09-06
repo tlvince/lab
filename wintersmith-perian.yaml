@@ -1,5 +1,5 @@
-title: wintersmith-perian
-date: 2012-09-13 22:57:37 +0800
-url: https://github.com/tlvince/wintersmith-perian
-description: Browserify, Coffee, Stylus, UglifyJS and CleanCSS 
-tags: CoffeeScript
+title: "wintersmith-perian"
+date: "2012-09-13 15:57:37 +0100"
+url: "https://github.com/tlvince/wintersmith-perian"
+description: "Browserify, Coffee, Stylus, UglifyJS and CleanCSS "
+fork: true

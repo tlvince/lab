@@ -1,5 +1,5 @@
-title: vim-compiler-python
-date: 2011-10-02 19:40:13 +0800
-url: https://github.com/tlvince/vim-compiler-python
+title: "vim-compiler-python"
+date: "2011-10-02 12:40:13 +0100"
+url: "https://github.com/tlvince/vim-compiler-python"
 description: Python compiler script for Vim
-tags: VimL
+fork: true

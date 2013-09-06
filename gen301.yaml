@@ -1,5 +1,5 @@
 title: gen301
-date: 2011-07-12 01:57:23 +0800
-url: https://github.com/tlvince/gen301
+date: "2011-07-11 18:57:23 +0100"
+url: "https://github.com/tlvince/gen301"
 description: Generate HTTP 301 redirect rules from URL lists and filenames
-tags: Python
+fork: false

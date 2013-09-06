@@ -1,5 +1,5 @@
-title: bootstrap-chosen
-date: 2013-03-10 21:44:57 +0800
-url: https://github.com/tlvince/bootstrap-chosen
+title: "bootstrap-chosen"
+date: "2013-03-10 13:44:57 +0000"
+url: "https://github.com/tlvince/bootstrap-chosen"
 description: An alternate stylesheet for Chosen that integrates with Bootstrap.
-tags: web css bootstrap
+fork: true

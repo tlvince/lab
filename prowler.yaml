@@ -1,5 +1,5 @@
 title: prowler
-date: 2010-09-15 23:01:33 +0800
-url: https://github.com/tlvince/prowler
+date: "2010-09-15 16:01:33 +0100"
+url: "https://github.com/tlvince/prowler"
 description: Delete unwanted files that otherwise pollute $HOME
-tags: shell linux
+fork: false

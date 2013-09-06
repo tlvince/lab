@@ -1,5 +1,5 @@
-title: python-quvi
-date: 2011-11-20 18:46:43 +0800
-url: https://github.com/tlvince/python-quvi
+title: "python-quvi"
+date: "2011-11-20 10:46:43 +0000"
+url: "https://github.com/tlvince/python-quvi"
 description: LibQuvi wrapper for python
-tags: Python
+fork: true

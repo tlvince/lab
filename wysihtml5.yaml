@@ -1,5 +1,5 @@
 title: wysihtml5
-date: 2013-01-17 18:10:57 +0800
-url: https://github.com/tlvince/wysihtml5
-description: Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
-tags: JavaScript
+date: "2013-01-17 10:10:57 +0000"
+url: "https://github.com/tlvince/wysihtml5"
+description: "Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles."
+fork: true

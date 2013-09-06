@@ -1,5 +1,5 @@
 title: pacmatic
-date: 2012-09-30 00:11:44 +0800
-url: https://github.com/tlvince/pacmatic
+date: "2012-09-29 17:11:44 +0100"
+url: "https://github.com/tlvince/pacmatic"
 description: A little wrapper script to keep Arch Linux from shooting you in the foot.
-tags: Shell
+fork: true

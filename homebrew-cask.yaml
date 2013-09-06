@@ -1,0 +1,5 @@
+title: "homebrew-cask"
+date: "2013-05-20 06:53:08 +0100"
+url: "https://github.com/tlvince/homebrew-cask"
+description: "a friendly homebrew-style CLI workflow for the administration of Mac applications distributed as binaries"
+fork: true

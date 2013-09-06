@@ -1,5 +1,5 @@
 title: st
-date: 2013-04-21 02:55:10 +0800
-url: https://github.com/tlvince/st
-description: Simple terminal (suckless.org) customisation and Solarized theme
-tags: terminal minimal arch linux solarized
+date: "2013-04-21 11:01:48 +0100"
+url: "https://github.com/tlvince/st"
+description: Simple virtual terminal emulator for X
+fork: false

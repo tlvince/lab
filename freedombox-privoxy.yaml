@@ -1,5 +1,5 @@
-title: freedombox-privoxy
-date: 2013-01-25 14:07:10 +0800
-url: https://github.com/tlvince/freedombox-privoxy
+title: "freedombox-privoxy"
+date: "2013-01-25 06:07:10 +0000"
+url: "https://github.com/tlvince/freedombox-privoxy"
 description: FreedomBox version of Privoxy
-tags: C
+fork: true

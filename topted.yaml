@@ -1,5 +1,5 @@
 title: topTED
-date: 2011-07-24 12:56:18 +0800
-url: https://github.com/tlvince/topTED
+date: "2011-07-24 05:56:18 +0100"
+url: "https://github.com/tlvince/topTED"
 description: Script to download most engaging TED talks
-tags: Ruby
+fork: true

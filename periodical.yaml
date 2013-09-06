@@ -1,5 +1,5 @@
 title: periodical
-date: 2012-09-05 23:02:11 +0800
-url: https://github.com/tlvince/periodical
+date: "2012-09-05 16:02:11 +0100"
+url: "https://github.com/tlvince/periodical"
 description: Create a Kindle periodical from given URL(s)
-tags: Python
+fork: false
