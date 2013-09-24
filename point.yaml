@@ -1,0 +1,5 @@
+title: point
+date: 2012-12-09 21:59:51 +0000
+url: A quick and dirty script to CNAME a Heroku app using PointHQ
+description: A quick and dirty script to CNAME a Heroku app using PointHQ
+tags: Heroku Ruby DNS
