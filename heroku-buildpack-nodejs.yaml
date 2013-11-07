@@ -1,0 +1,5 @@
+title: "heroku-buildpack-nodejs"
+date: "2012-06-22 17:29:27 +0100"
+url: "https://github.com/tlvince/heroku-buildpack-nodejs"
+description: Heroku buildpack for Wintersmith
+fork: true

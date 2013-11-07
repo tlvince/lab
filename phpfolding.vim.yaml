@@ -1,0 +1,5 @@
+title: phpfolding.vim
+date: "2013-10-05 08:37:14 +0100"
+url: "https://github.com/tlvince/phpfolding.vim"
+description: "Automatic folding of PHP functions, classes,.. (also folds related PhpDoc)"
+fork: true
