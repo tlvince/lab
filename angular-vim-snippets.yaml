@@ -1,0 +1,5 @@
+title: "angular-vim-snippets"
+date: "2014-02-01 02:59:43 +0000"
+url: "https://github.com/tlvince/angular-vim-snippets"
+description: "repo for UltiSnips & Snipmate for angular to be included as a submodule for use in your .vim directory"
+fork: true

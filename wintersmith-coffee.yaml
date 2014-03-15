@@ -1,0 +1,5 @@
+title: "wintersmith-coffee"
+date: "2014-02-16 02:24:58 +0000"
+url: "https://github.com/tlvince/wintersmith-coffee"
+description: "Plugin for wintersmith, compiles `.coffee` into `.js`"
+fork: true

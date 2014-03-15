@@ -1,0 +1,5 @@
+title: "vim-pantondoc"
+date: "2013-12-23 16:31:33 +0000"
+url: "https://github.com/tlvince/vim-pantondoc"
+description: "vim-pandoc bundle rewrite with a modular design"
+fork: true
