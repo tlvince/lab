@@ -1,0 +1,5 @@
+title: pouchdb.mapreduce.noeval
+date: "2014-06-26 21:21:06 +0100"
+url: "https://github.com/tlvince/pouchdb.mapreduce.noeval"
+description: MapReduce plugin for PouchDB that does not use dynamic evaluation
+fork: true

@@ -1,0 +1,5 @@
+title: "grunt-ng-constant"
+date: "2014-06-14 12:19:34 +0100"
+url: "https://github.com/tlvince/grunt-ng-constant"
+description: Plugin for dynamic generation of angular constant and value definition modules.
+fork: true

@@ -1,0 +1,5 @@
+title: "grunt-bump"
+date: "2014-05-28 19:05:00 +0100"
+url: "https://github.com/tlvince/grunt-bump"
+description: "Grunt.js plugin - Increment package version."
+fork: true
