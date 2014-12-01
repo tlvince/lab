@@ -1,0 +1,5 @@
+title: "pouchdb-authentication"
+date: "2014-11-07 12:08:26 +0000"
+url: "https://github.com/tlvince/pouchdb-authentication"
+description: User authentication plugin for PouchDB and CouchDB.
+fork: true
